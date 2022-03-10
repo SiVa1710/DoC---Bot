@@ -33,7 +33,7 @@ Finally star rating will be asked for the service provided by the bot.
 https://user-images.githubusercontent.com/72851987/152409077-8fd0345f-a362-4a24-b2dc-66ece4f7f727.mp4
 ## Screenshots
 
-![Capture](https://user-images.githubusercontent.com/54441582/157697168-ef6198e4-54ee-4cb0-9304-bf65a031e4a6.png)  ![Capture2](https://user-images.githubusercontent.com/54441582/157704z212-080df3a1-c31e-419c-9ac1-6dbec24d2f67.png)  ![Capture1](https://user-images.githubusercontent.com/54441582/157697560-1dbc73ce-b8d5-41e6-916b-86d2c73c201b.png)<br><br>
+![Capture](https://user-images.githubusercontent.com/54441582/157697168-ef6198e4-54ee-4cb0-9304-bf65a031e4a6.png)  ![Capture2](https://user-images.githubusercontent.com/54441582/157704z212-080df3a1-c31e-419c-9ac1-6dbec24d2f67.png)<br><br>  ![Capture1](https://user-images.githubusercontent.com/54441582/157697560-1dbc73ce-b8d5-41e6-916b-86d2c73c201b.png)<br><br>
 
 
 
