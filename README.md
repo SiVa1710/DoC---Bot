@@ -39,7 +39,7 @@ https://user-images.githubusercontent.com/72851987/152409077-8fd0345f-a362-4a24-
 
 
 
-![Example screenshot](./images/Capture3.JPG)<br><br>
+![Capture3](https://user-images.githubusercontent.com/54441582/157706252-8225d578-8d2a-451c-858e-d173b6b20208.png)<br><br>
 
 ## Technologies
 * Deluge
