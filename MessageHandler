@@ -1,3 +1,4 @@
+zoho.salesiq.visitorsession.set("entcare",{"key":"0"},"salesiqconnection");
 response = Map();
 msg = message.get("text");
 if(operation.equals("chat"))
