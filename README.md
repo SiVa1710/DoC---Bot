@@ -19,7 +19,7 @@ Various SalesIQ Scripts' input cards has been used such as<br>
 --->Date - Time Slots<br>
 --->Star Rating<br>
 
-Apart from input cards, other additional feature is been added:
+Apart from input cards, other additional feature has been added:
   Once the user completes the appointment process, the user will receive the confirmation mail to his/her Mail_ID.
 
 To summarize, 
