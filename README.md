@@ -1,4 +1,4 @@
-# Docbot
+# DoC-Bot
 > Appointment confirmation Bot (DoC-Bot) - https://ent-care.vercel.app/
 
 ## Table of contents
