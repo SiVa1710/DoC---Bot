@@ -2,7 +2,7 @@
 > Appointment confirmation Bot (DoC-Bot) - https://ent-care.vercel.app/
 
 ## Table of contents
-* Doc-Bot
+* DoC-Bot
 * ENT Care Website
 * Manual Appointment Registration.
 
