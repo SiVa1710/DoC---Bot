@@ -33,7 +33,7 @@ Finally star rating will be asked for the service provided by the bot.
 https://user-images.githubusercontent.com/72851987/152409077-8fd0345f-a362-4a24-b2dc-66ece4f7f727.mp4
 ## Screenshots
 
-![Example screenshot](./images/Capture.PNG)    &emsp;  ![Example screenshot](./images/Capture2.png)<br><br>
+![Capture](https://user-images.githubusercontent.com/54441582/157697168-ef6198e4-54ee-4cb0-9304-bf65a031e4a6.png);  ![Example screenshot](./images/Capture2.png)<br><br>
 ![Example screenshot](./images/Capture1.png)<br><br>
 
 
